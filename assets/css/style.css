@@ -1,0 +1,38 @@
+section {
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 0% 35%;
+}
+
+h1, div:nth-of-type(4) {
+    background-color: lightgreen;
+}
+
+div:nth-of-type(4) {
+    background-color: lightgreen;
+}
+
+.color {
+    color: white;
+}
+
+
+div {
+    padding: 1% 0%;
+    text-align: center;
+}
+
+
+.widthinput {
+    width: 50%;
+}
+
+
+.widthmessage {
+    width: 50%;
+    height: 10vh;
+}
+
+.button {
+    background-color: lightgreen;
+    border: none;
